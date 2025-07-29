@@ -45,3 +45,8 @@ header {
   justify-content: center;
   align-items: center;
 }
+section {
+  border: 1px solid white;
+  padding: 20px;
+  margin-bottom: 20px;
+}

@@ -20,15 +20,16 @@ aside p+p{
 }
 #saturn{
     
-    background-image: url(../images/Neptune.jpg);
+    background-image: url(../images/Saturn.jpg);
+
 }
 #uranus{
     
-    background-image: url(../images/Saturn.jpg);
+    background-image: url(../images/Uranus.jpg);
 }
 #neptune{
     
-    background-image: url(../images/Uranus.jpg);
+    background-image: url(../images/Neptune.jpg);
 }
 body{
      width: 900px;         
@@ -43,4 +44,9 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+section {
+  border: 1px solid white; /* เส้นขอบสีขาว */
+  padding: 20px;
+  margin-bottom: 20px;
 }

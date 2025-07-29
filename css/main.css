@@ -15,5 +15,16 @@ aside p+p{
 }
 #jupiter{
     
-    background-image: url(..);
+    background-image: url(../images/Jupiter.jpg);
 }
+#saturn{
+    
+    background-image: url(../images/Neptune.jpg);
+}
+#uranus{
+    
+    background-image: url(../images/Saturn.jpg);
+}
+#neptune{
+    
+    background-image: url(../images/Uranus.jpg);

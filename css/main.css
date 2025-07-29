@@ -7,3 +7,13 @@ tr td{
 aside p+p{
     color: #ff0404;
 }
+#saturn th {
+    color: #ffffff;
+}
+#section{
+    box-shadow: #white;
+}
+#jupiter{
+    
+    background-image: url(..);
+}

@@ -11,7 +11,8 @@ aside p+p{
     color: #ffffff;
 }
 #section{
-    box-shadow: white;
+    box-shadow: rgb(255,255,255);
+    text-align: left;
 }
 #jupiter{
     
@@ -36,4 +37,10 @@ body{
       color: white;           
       font-size: 20px;
       font-family: sans-serif;
+}
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

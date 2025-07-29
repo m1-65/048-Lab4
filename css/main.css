@@ -50,3 +50,7 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
+nav {             
+  left: 0 0 0 85px;
+  text-align: left;
+}

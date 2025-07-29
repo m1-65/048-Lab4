@@ -1,5 +1,5 @@
 tr td{
-    color: #ff0404;
+    color: #ffffff;
 }
 #tbody2>tr{
     color: #04ecff;
@@ -44,14 +44,4 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-section {
-  border: 1px solid white;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-nav {
-  position: absolute;  
-  top: 0;              
-  left: 85px;
 }

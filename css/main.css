@@ -2,5 +2,8 @@ tr td{
     color: #ff0404;
 }
 #tbody2>tr{
-    color: #;
+    color: #04ecff;
+}
+aside p+p{
+    color: #ff0404;
 }

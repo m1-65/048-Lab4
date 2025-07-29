@@ -46,7 +46,12 @@ header {
   align-items: center;
 }
 section {
-  border: 1px solid white; /* เส้นขอบสีขาว */
+  border: 1px solid white;
   padding: 20px;
   margin-bottom: 20px;
+}
+nav {
+  position: absolute;  
+  top: 0;              
+  left: 85px;
 }

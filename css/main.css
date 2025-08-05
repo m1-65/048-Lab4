@@ -65,6 +65,9 @@ li{
 .menu{
     padding: 0px 10px;
 }
+main{
+    margin-top: 50px;
+}
 footer {
     background-color: blue;
     color: white;

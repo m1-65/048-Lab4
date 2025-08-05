@@ -54,6 +54,5 @@ section {
   margin-bottom: 20px;
 }
 nav {             
-  left: 0 0 0 85px;
-  text-align: left;
+    padding: 0px 10px;
 }

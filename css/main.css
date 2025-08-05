@@ -58,3 +58,9 @@ nav {
     float: left;
     margin: 0 85px;
 }
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}

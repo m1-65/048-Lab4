@@ -3,6 +3,7 @@ tr td{
 }
 a {
     color: #FAA202;
+    font-weight: bold;
 }
 #tbody2>tr{
     color: #04ecff;

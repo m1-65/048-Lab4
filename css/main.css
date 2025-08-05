@@ -56,11 +56,13 @@ section {
 nav {             
     list-style: none;
     float: left;
-    margin: 0 85px;
+    margin: 0 0 0 85px;
 }
+  nav a {
+    color: rgb(255, 153, 0);
+  }
 footer {
     background-color: blue;
     color: white;
     text-align: center;
-    padding: 20px 0;
 }

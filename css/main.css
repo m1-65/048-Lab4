@@ -54,5 +54,7 @@ section {
   margin-bottom: 20px;
 }
 nav {             
-    padding: 0px 85px;
+    list-style: none;
+    float: left;
+    margin: 0 85px;
 }
